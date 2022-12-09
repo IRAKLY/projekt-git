@@ -1,9 +1,6 @@
 Helllo world`~ test 3
 Version 2
-
-Branch feature/001
 Branch feature/002
 Test merginga
-
 
 
